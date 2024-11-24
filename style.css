@@ -58,7 +58,9 @@ body{
     width: 100%;
     justify-content: space-between ;
     height: 100vh;
-    background: url(/img/plain_.jpg) no-repeat ;
+    
+   
+    background-color: #277BB7;
     background-position: center;
     display: flex;
     align-items: center;
