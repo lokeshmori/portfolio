@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio Website
 
-This is my portfolio website that show case my skills set <br>
+This is my portfolio website that show about my professional journey and  my skills set <br>
 <a>https://lokeshmori.github.io/portfolio/</a>
